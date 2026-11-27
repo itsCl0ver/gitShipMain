@@ -128,6 +128,7 @@ void init(){
   char[] q = binary(healthbar.checksum).toCharArray();
   q[q.length - 7] = '1';
   healthbar.checksum = unbinary(new String(q));  
+  healthbar.checksum = unbinary(new String(q));
   //junk
   junk = new Junk();
   

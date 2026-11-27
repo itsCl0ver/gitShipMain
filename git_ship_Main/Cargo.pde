@@ -7,6 +7,9 @@ void loadCargo(){
   cargo.add("Three little pigs");
   cargo.add("Nirvana");
   cargo.add("16 tons of space station scrap");
+  cargo.add("One freshly baked moon pie");
+  cargo.add("Two crates of moonshine");
+  cargo.add("28 boxes of mooncakes");
   cargo.add("A cryogenically frozen 21st Century nerd by the name of Daniel Shiffman");
   cargo.add("Blueprints for GLaDOS");
   cargo.add("Computer spares");
